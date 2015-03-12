@@ -1,4 +1,4 @@
-include ':BraintreeApi'
+include ':BraintreeApi', ':MyDemo'
 include ':BraintreeData'
 include ':CardForm'
 include ':Drop-In'
